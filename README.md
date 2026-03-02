@@ -23,3 +23,38 @@ treatments
 bills
 
 These tables are connected using primary and foreign keys to simulate real hospital operations.
+
+# Key Business Problems Solved
+
+🔹 Patient Analytics
+
+Identify high-frequency patients
+
+Calculate patient visit trends
+
+Detect potential high-risk patients (multiple visits)
+
+🔹 Doctor Performance Analysis
+
+Rank doctors by patient load
+
+Calculate total revenue generated per doctor
+
+Identify top-performing doctors
+
+🔹 Revenue Analysis
+
+Monthly hospital revenue trend
+
+Running total revenue using window functions
+
+Revenue by department
+
+🔹 Operational Insights
+
+Most common diagnoses
+
+Average treatment cost
+
+Payment status distribution
+
