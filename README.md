@@ -58,3 +58,23 @@ Average treatment cost
 
 Payment status distribution
 
+# SQL Concepts Used
+
+This project demonstrates:
+
+INNER JOIN / LEFT JOIN
+
+GROUP BY & HAVING
+
+Subqueries
+
+Common Table Expressions (CTEs)
+
+Window Functions (RANK, DENSE_RANK, SUM OVER)
+
+Aggregate Functions
+
+Date Functions
+
+CASE Statements
+
