@@ -6,7 +6,7 @@ The goal of this project is to analyze patient behavior, doctor performance, hos
 
 This project demonstrates strong SQL fundamentals along with advanced analytical querying techniques used in real-world data analyst roles.
 
-Database Schema
+# Database Schema
 
 The database consists of the following tables:
 
