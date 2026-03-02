@@ -78,3 +78,15 @@ Date Functions
 
 CASE Statements
 
+# Project Objective
+
+The objective of this project is to simulate real-world healthcare data analysis and demonstrate advanced SQL skills required for:
+
+Data Analyst roles
+
+Business Intelligence roles
+
+SQL Developer roles
+
+Data Science preparation
+
